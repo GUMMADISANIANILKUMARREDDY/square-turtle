@@ -1,0 +1,15 @@
+@relation item
+
+@attribute 'Trans. ID' {T1,T2,T3,T4,T5,T6,T7,T8,T9}
+@attribute 'Item List' {'i1, i2, i5','i2, i4','i2, i3','i1, i2, i4','i1, i3','i1, i2, i3, i5','i1, i2, i3'}
+
+@data
+T1,'i1, i2, i5'
+T2,'i2, i4'
+T3,'i2, i3'
+T4,'i1, i2, i4'
+T5,'i1, i3'
+T6,'i2, i3'
+T7,'i1, i3'
+T8,'i1, i2, i3, i5'
+T9,'i1, i2, i3'
